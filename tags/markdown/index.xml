@@ -5,12 +5,29 @@
     <link>https://katusha10.github.io/tags/markdown/</link>
       <atom:link href="https://katusha10.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://katusha10.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://katusha10.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://katusha10.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://katusha10.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;💻 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Привет! Я Екатерина, студентка направления &lt;strong&gt;&amp;ldquo;Компьютерные науки&amp;rdquo;&lt;/strong&gt;. 🖥&lt;/p&gt;
+&lt;p&gt;Эта неделя была продуктивной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Осваивали основы &lt;strong&gt;дискретной математики&lt;/strong&gt;, много логики и множества.&lt;/li&gt;
+&lt;li&gt;🔹 Разбирались с &lt;strong&gt;алгоритмами сортировки&lt;/strong&gt; — теперь пузырек и быстрая сортировка не пугают!&lt;/li&gt;
+&lt;li&gt;🔹 Начали писать &lt;strong&gt;лабораторные по Python&lt;/strong&gt;, учимся работать с файлами и структурами данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кажется, мозг плавится, но это интересно! Жду новых задач. 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
