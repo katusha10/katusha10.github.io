@@ -5,12 +5,29 @@
     <link>https://katusha10.github.io/tags/hugo-blox/</link>
       <atom:link href="https://katusha10.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://katusha10.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://katusha10.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://katusha10.github.io/post/03/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://katusha10.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-недельный-апдейт--cs-edition&#34;&gt;🗓️ Недельный апдейт — CS edition&lt;/h1&gt;
+&lt;p&gt;На этой неделе без резких скачков, но стабильно в рабочем темпе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚙️ Продолжили работу с алгоритмами — погружались в сортировки и их оптимизации. Merge Sort наконец-то &amp;ldquo;сел&amp;rdquo; в голове.&lt;/li&gt;
+&lt;li&gt;🧠 По дискретной математике — графы. Много нового, но материал логичный и чётко структурированный.&lt;/li&gt;
+&lt;li&gt;💻 На практике с Python — автоматизация парсинга и начальные этапы анализа данных. Приятно, когда код реально что-то делает.&lt;/li&gt;
+&lt;li&gt;📚 В параллель — разбирали оформление источников, зачем нужна библиография и как не запутаться в ссылках.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя прошла спокойно, но продуктивно. Ничего лишнего, всё по делу.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
